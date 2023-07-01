@@ -11,11 +11,15 @@ This Python script sends a POST request to a Discord channel, simulating the typ
    pip install requests python-dotenv
 Create a .env file in the same directory as the script and add the following variables:
 
+## TODO
+- Impliment threading for multiple channels
+- Impliment multiple accounts
+- Try implimenting a way to automatically get token and channelid, maybe using chromedriver idk
 
-
+```bash
 CHANNEL_ID=<Your Discord Channel ID>
 TOKEN=<Your Discord Authorization Token>
-
+```
 Get your Discord Authorization Token:
 
 Open Discord in a web browser.
