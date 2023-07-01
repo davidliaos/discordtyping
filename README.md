@@ -1,6 +1,8 @@
 # Discord Typing Indicator
 
 This Python script sends a POST request to a Discord channel, simulating the typing indicator. It can be used to create the illusion of a user typing in a specific channel.
+Based on
+https://www.youtube.com/watch?v=Nu_zjfYQuZo
 
 ## Usage
 
